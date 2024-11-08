@@ -1,5 +1,6 @@
 [![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)](https://github.com/Yaser-123)
 
+
 <h1 align="center">Hi 👋, I'm T Mohamed Yaser</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
@@ -35,7 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaser-123&show_icons=true&locale=en&theme=dracula" alt="yaser-123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaser-123&theme=dracula" alt="yaser-123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-beryl-delta.vercel.app?user=Yaser-123&theme=dracula" alt="yaser-123" /></p>
 
 <!--- <img width=390 src="https://streak-stats.demolab.com/?user=yaser-123&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
 
