@@ -32,16 +32,16 @@
 
 [![An image of @yaser123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yaser123)](https://holopin.io/@yaser123)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaser-123&show_icons=true&locale=en&layout=compact&theme=dracula" alt="yaser-123" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaser-123&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yaser-123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaser-123&show_icons=true&locale=en&theme=dracula" alt="yaser-123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaser-123&show_icons=true&locale=en&theme=algolia" alt="yaser-123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats-beryl-delta.vercel.app?user=Yaser-123&theme=dracula" alt="yaser-123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-beryl-delta.vercel.app?user=Yaser-123&theme=algolia" alt="yaser-123" /></p>
 
 <!--- <img width=390 src="https://streak-stats.demolab.com/?user=yaser-123&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
 
 
 
-<p align="left"> <a href="https://github.com/Yaser-123/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yaser-123&theme=dracula" alt="yaser-123" /></a> </p>
+<p align="left"> <a href="https://github.com/Yaser-123/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yaser-123&theme=algolia" alt="yaser-123" /></a> </p>
 
 <!-- <p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=Yaser-123)](https://github.com/Yaser-123/github-profile-trophy) </p> -->
