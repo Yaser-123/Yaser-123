@@ -37,7 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaser-123&show_icons=true&locale=en&theme=algolia" alt="yaser-123" /></p>
 
-<p><img align="center" src="github-readme-streak-aqv3rsqhy-yaser-123s-projects.vercel.app" alt="yaser-123" /></p>
+<p><img align="center" src="https://github-readme-streak-one.vercel.app?user=yaser-123" alt="yaser-123" /></p>
 
 <!--- <img width=390 src="https://streak-stats.demolab.com/?user=yaser-123&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
 
