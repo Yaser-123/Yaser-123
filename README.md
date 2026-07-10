@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Yaser-123/IITG-Summer-Analytics-2025/blob/main/Assignments/Intro.gif)](https://github.com/Yaser-123)
+[![MasterHead](https://raw.githubusercontent.com/Yaser-123/IITG-Summer-Analytics-2025/main/Assignments/Intro.gif)](https://github.com/Yaser-123)
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaser-123&label=Profile%20views&color=0e75b6&style=flat" alt="yaser-123" /> </p>
 
 
-- 🔭 I’m currently working on [Career Roadmaps and Courses (Website)](https://mohdyaser.vercel.app/)
+- 🔭 I'm currently working on [Career Roadmaps and Courses (Website)](https://mohdyaser.vercel.app/)
 
-- 🌱 I’m currently learning **Data Science & Algorithms**
+- 🌱 I'm currently learning **Data Science & Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://mohdyaser.vercel.app/](https://mohdyaser.vercel.app/)
 
@@ -70,13 +70,11 @@
 
 [![An image of @yaser123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yaser123)](https://holopin.io/@yaser123)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaser-123&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yaser-123" /></p>
+<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=yaser-123&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yaser-123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaser-123&show_icons=true&locale=en&theme=algolia" alt="yaser-123" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=yaser-123&show_icons=true&locale=en&theme=algolia" alt="yaser-123" /></p>
 
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Yaser-123&theme=algolia" alt="yaser-123" /></p>
-
-<!--- <img width=390 src="https://streak-stats.demolab.com/?user=yaser-123&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
+<p><img align="center" src="https://streak-stats.demolab.com/?user=yaser-123&theme=algolia" alt="yaser-123" /></p>
 
 
 
